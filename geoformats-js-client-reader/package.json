@@ -1,0 +1,17 @@
+{
+  "name": "geoformats-js-client-reader",
+  "version": "0.0.1",
+  "description": "A Reader for Geoformats in the client",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test.ts"
+  },
+  "keywords": [
+    "GDAL",
+    "GEOS",
+    "Leaflet",
+    "OpenLayers"
+  ],
+  "author": "David Rivera Morales",
+  "license": "ISC"
+}
